@@ -86,8 +86,6 @@ You can find the dataset [Amazon Sales Dataset](https://drive.google.com/file/d/
 
 - Step 8 : The dashboard was complete with all my target requirements being met. Finally, I linked all the pages using Buttons to facilitate smooth navigation.
 
-- Step 9 : Uploaded the entire Dashboard to PowerBI Service.
-
 ## Key Insights from Amazon Sales Data Analysis
 
 1. Top-Selling Products
