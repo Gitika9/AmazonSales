@@ -124,7 +124,3 @@ You can find the dataset [Amazon Sales Dataset](https://drive.google.com/file/d/
     - Complex Calculations: Creating new features like revenue per product, customer lifetime value, or segmenting customers based on purchase behavior involved complex calculations that required additional time and attention to detail.
     - Merging Data Sources: Integrating multiple data sources (if used) such as sales, inventory, and customer data posed challenges in ensuring a seamless merge without data loss or misalignment.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
